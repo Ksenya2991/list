@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.container h2{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.container .list{
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.container .list li{
+    padding: 5px;
+}
